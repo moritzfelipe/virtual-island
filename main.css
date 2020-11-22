@@ -1,0 +1,18 @@
+body {
+  font-family: 'VT323', monospace;
+  color: white;
+  background: black;
+  font-size: 1.4rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.fs3{
+  font-size: 2rem;
+}
+
+.hide{
+  display: none;
+}
