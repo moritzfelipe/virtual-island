@@ -1,6 +1,6 @@
 var i = 0;
 var txt = 'You will land on a virtual island with fellow tech explorers. Listen to the talk, ask questions and get to know your peers over a beer on the island.'; /* The text */
-var speed = 10; /* The speed/duration of the effect in milliseconds */
+var speed = 80; /* The speed/duration of the effect in milliseconds */
 
 window.onload = function typeWriter() {
   if (i < txt.length) {
